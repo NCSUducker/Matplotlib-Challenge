@@ -1,7 +1,7 @@
 # Matplotlib-Challenge
 matplotlib plots
 
-In the Matplotlib Challenge several drug regiments were utilized on a time study of tumor volume size in relation with the treatment drug. To begin we needed to clean and drop duplicate data. There appears to be an entry for the same mouse, however we do not know which is the correct mouse data so we use drop_duplicates to eliminate the mouse all together from the data set. 
+In this project several drug regiments were utilized on a time study of tumor volume size in relation with the treatment drug. To begin we needed to clean and drop duplicate data. There appears to be an entry for the same mouse, however we do not know which is the correct mouse data so we use drop_duplicates to eliminate the mouse all together from the data set. 
 
 Further analysis of the data we can infer that Capomulin and Ramicane are a more effective treatment than Infubinol and Cerftamin by examining the box plot of 'Final Tumor Volume by Drug'
 
